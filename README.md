@@ -1,2 +1,3 @@
 # Formacion-y-Evolucion-de-Galaxias
 Este repositorio contiene la resolución de algunas de las prácticas de la materia "Formación y Evolución de Galaxias" de la Facultad de Ciencias Astronómicas y Geofísicas (UNLP). 
+Las clases prácticas consisten en la utilización de programas en python para analizar las propiedades de galaxias generadas a partir de datos observacionales y de simulaciones numéricas disponibles, con el fin de que se apliquen los conocimientos adquiridos en las clases teóricas y se aprenda tanto a manejar datos de modelos como a interpretarlos en comparación con resultados observacionales. 
