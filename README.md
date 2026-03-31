@@ -1,2 +1,3 @@
 This repository contains the resolution of selected practical assignments from the "Galaxy Formation and Evolution" course at the Facultad de Cs.Astronómicas y Geofísicas (UNLP).
 The practical sessions involve using Python programs to analyze the properties of galaxies generated from both observational data and available numerical simulations. The main objective is to apply theoretical knowledge while learning to handle model data and interpret them in comparison with observational results.
+https://www.fcaglp.unlp.edu.ar/uploads/docs/programa_formacion_y_evolucion_de_galaxias.pdf
